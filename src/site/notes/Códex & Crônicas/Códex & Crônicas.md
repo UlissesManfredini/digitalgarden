@@ -1,9 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/codex-and-cronicas/codex-and-cronicas/","updated":"2025-10-27T23:59:19.510-03:00"}
+{"dg-publish":true,"permalink":"/codex-and-cronicas/codex-and-cronicas/","updated":"2025-10-28T00:00:30.442-03:00"}
 ---
-
-> “As regras não são grades — são instrumentos. E como toda boa melodia, uma história só vive quando é tocada.”  
-> — _Prefácio da Primeira Edição do Códex & Crônicas_
 
 **Códex & Crônicas** é um sistema de RPG de fantasia desenvolvido para oferecer **mais liberdade narrativa**, **coerência interna** e **imersão mecânica** nas histórias que contamos.  
 Inspirado nas bases da _5ª edição de Dungeons & Dragons_, o sistema foi **reformulado do zero** para refletir uma maneira de jogar mais natural, intuitiva e profundamente conectada ao ato de contar histórias.
