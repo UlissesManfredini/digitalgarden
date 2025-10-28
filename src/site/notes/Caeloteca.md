@@ -1,19 +1,19 @@
 ---
-{"dg-publish":true,"permalink":"/caeloteca/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/caeloteca/","tags":["gardenEntry"],"updated":"2025-10-27T23:28:49.471-03:00"}
 ---
 
 ## **Bem-vindo à Caeloteca**
 
 > “Entre cada palavra registrada e cada dado lançado, há um fragmento de verdade — e é dessa verdade que o mundo é feito.”  
-> — _[[Halvor Castley\|Halvor Castley]], fundador da [[Instituto Galdrino de Ciências Antrópicas\|Academia de Antropismo de Albor]]._
+> — _[[Halvor Castley\|Halvor Castley]], O Arquivista._
 
 A **Caeloteca** é um compêndio em expansão, reunindo os registros, manuscritos e tratados sobre o vasto universo de **[[Caelos\|Caelos]]**. Aqui, convivem lado a lado os registros históricos de um mundo em constante transformação e as ferramentas que usamos para explorá-lo à mesa de jogo.
 
 ---
 
-### **Codex & Crônicas**
+### **Códex & Crônicas**
 
-**[[Codex & Crônicas/Codex & Crônicas\|Codex & Crônicas]]** é o sistema de RPG que dá forma às aventuras narradas em Caelos. Baseado nas fundações de _Dungeons & Dragons 5ª edição_, ele foi **reformulado para se adequar melhor às nossas histórias**, aos **conceitos do universo** e às **preferências da mesa**, desde unidades de medida até a forma como abordamos habilidades, combate e progressão.
+**[[Códex & Crônicas/Códex & Crônicas\|Códex & Crônicas]]** é o sistema de RPG que dá forma às aventuras narradas em Caelos. Baseado nas fundações de _Dungeons & Dragons 5ª edição_, ele foi **reformulado para se adequar melhor às nossas histórias**, aos **conceitos do universo** e às **preferências da mesa**, desde unidades de medida até a forma como abordamos habilidades, combate e progressão.
 
 O objetivo é oferecer uma experiência mais coerente, intuitiva e imersiva, sem perder o espírito clássico do RPG de fantasia.
 
